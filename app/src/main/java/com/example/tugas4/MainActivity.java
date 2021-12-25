@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void tampilkanOperasiSistem(String namaOperasiSistem) {
-
         Log.d("MAIN","Buka activity ");
         Intent intent = new Intent(this, Data_activity.class);
         intent.putExtra(os_key, namaOperasiSistem);

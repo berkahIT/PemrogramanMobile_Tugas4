@@ -113,7 +113,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/microsoftlogo"/>
                 </LinearLayout>
 
                 <TextView
@@ -151,7 +151,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/macos"/>
                 </LinearLayout>
 
                 <TextView
@@ -189,7 +189,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/ubuntu"/>
                 </LinearLayout>
 
                 <TextView
@@ -227,7 +227,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/centos"/>
                 </LinearLayout>
 
                 <TextView
@@ -265,7 +265,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/chromeos"/>
                 </LinearLayout>
 
                 <TextView
@@ -303,7 +303,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/oracellogo"/>
                 </LinearLayout>
 
                 <TextView
@@ -341,7 +341,7 @@
                         android:layout_width="35dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="20dp"
-                        android:src="@drawable/ic_launcher_background"/>
+                        android:src="@drawable/freebsd"/>
                 </LinearLayout>
 
                 <TextView
