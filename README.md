@@ -4,4 +4,4 @@ Nama  : Aulia Wina Syafitri
 NIM   : 200602068
 Kelas : TI-C
 
-![Tampilan](api.gif)
+![Tampilan](api_edwin.gif)
